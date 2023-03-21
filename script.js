@@ -10,3 +10,5 @@ async function fetchData(callback) {
   function displayMessage(data) {
       document.getElementById("output").innerText = data.title;
   }
+
+// let btn = document.getElementById("btn");
